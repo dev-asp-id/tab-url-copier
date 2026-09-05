@@ -1,0 +1,41 @@
+{
+  "appName": {
+    "message": "Tab URL Copier"
+  },
+  "appDesc": {
+    "message": "Quickly export all open URLs from active window."
+  },
+  "headerSubtitle": {
+    "message": "Quickly export all open URLs"
+  },
+  "labelSeparator": {
+    "message": "Separator:"
+  },
+  "optNewline": {
+    "message": "Newline (Enter)"
+  },
+  "optSemicolon": {
+    "message": "Semicolon (;)"
+  },
+  "optComma": {
+    "message": "Comma (,)"
+  },
+  "optSpace": {
+    "message": "Space ( )"
+  },
+  "optCustom": {
+    "message": "Custom..."
+  },
+  "labelCustom": {
+    "message": "Custom Separator:"
+  },
+  "btnCopy": {
+    "message": "Copy All Tab URLs"
+  },
+  "msgCopied": {
+    "message": "✓ URLs copied to clipboard!"
+  },
+  "footerMadeWith": {
+    "message": "Made with ♥ "
+  }
+}

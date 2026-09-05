@@ -1,0 +1,41 @@
+{
+  "appName": {
+    "message": "Tab URL Copier"
+  },
+  "appDesc": {
+    "message": "Salin semua URL tab di jendela aktif dengan mudah."
+  },
+  "headerSubtitle": {
+    "message": "Salin semua URL tab terbuka"
+  },
+  "labelSeparator": {
+    "message": "Pilih Separator:"
+  },
+  "optNewline": {
+    "message": "Baris Baru (Enter)"
+  },
+  "optSemicolon": {
+    "message": "Titik Koma (;)"
+  },
+  "optComma": {
+    "message": "Koma (,)"
+  },
+  "optSpace": {
+    "message": "Spasi ( )"
+  },
+  "optCustom": {
+    "message": "Kustom..."
+  },
+  "labelCustom": {
+    "message": "Separator Kustom:"
+  },
+  "btnCopy": {
+    "message": "Salin Semua URL Tab"
+  },
+  "msgCopied": {
+    "message": "✓ URL berhasil disalin!"
+  },
+  "footerMadeWith": {
+    "message": "Dibuat dengan ♥ "
+  }
+}

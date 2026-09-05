@@ -16,9 +16,9 @@ A lightweight, multi-language, and privacy-friendly Chrome extension to instantl
 
 ###  🚀 Installation
 1. Clone or download this repository:
-   ```bash
-   git clone [https://github.com/USERNAME/tab-url-copier.git](https://github.com/USERNAME/tab-url-copier.git)
-   ```
+```bash
+git clone https://github.com/dev-asp-id/tab-url-copier.git
+```
 2. Open Chrome and navigate to chrome://extensions/.
 3. Turn on Developer mode (top-right toggle).
 4. Click Load unpacked and select the project folder.
@@ -32,9 +32,9 @@ A lightweight, multi-language, and privacy-friendly Chrome extension to instantl
 
 ### 🚀 Cara Install
 1. Clone atau download repository ini.
- ```bash
-   git clone [https://github.com/USERNAME/tab-url-copier.git](https://github.com/USERNAME/tab-url-copier.git)
-   ```
+```bash
+git clone https://github.com/dev-asp-id/tab-url-copier.git
+```
 2. Buka Chrome dan ketik chrome://extensions/ di address bar.
 3. Aktifkan Developer mode (sakelar kanan atas).
 4. Klik Load unpacked lalu pilih folder proyek ini.
